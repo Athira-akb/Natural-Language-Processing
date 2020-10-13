@@ -1,2 +1,2 @@
 # Natural-Language-Processing
-NLP, NLTK, Bag of words
+NLP, NLTK, Bag of words, Sentiment analysis
